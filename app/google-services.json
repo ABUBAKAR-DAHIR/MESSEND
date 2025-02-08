@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807910600701",
+    "project_id": "messend-backend",
+    "storage_bucket": "messend-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807910600701:android:a20f1fc802c1b233ac3394",
+        "android_client_info": {
+          "package_name": "com.example.messend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JEjM7nrBj4a628nb3zPKgjnHqTniIIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
